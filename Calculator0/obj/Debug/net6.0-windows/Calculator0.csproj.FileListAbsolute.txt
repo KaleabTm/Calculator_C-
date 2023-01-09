@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Calculator0\Calculator0\bin\Debug\net6.0-windows\Calculator0.exe
+C:\Users\hp\source\repos\Calculator0\Calculator0\bin\Debug\net6.0-windows\Calculator0.deps.json
+C:\Users\hp\source\repos\Calculator0\Calculator0\bin\Debug\net6.0-windows\Calculator0.runtimeconfig.json
+C:\Users\hp\source\repos\Calculator0\Calculator0\bin\Debug\net6.0-windows\Calculator0.dll
+C:\Users\hp\source\repos\Calculator0\Calculator0\bin\Debug\net6.0-windows\Calculator0.pdb
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.Form1.resources
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.AssemblyInfo.cs
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.dll
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\refint\Calculator0.dll
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.pdb
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\Calculator0.genruntimeconfig.cache
+C:\Users\hp\source\repos\Calculator0\Calculator0\obj\Debug\net6.0-windows\ref\Calculator0.dll
